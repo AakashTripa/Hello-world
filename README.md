@@ -1,6 +1,6 @@
 # Hello-world
 This is my foirst repository for practice
 <br>
-Author-Aakash Tripathi
+Author-Aakash athi
 <br>
 New commit Here
